@@ -1,0 +1,4 @@
+enum state {
+	idle,
+	walk
+}
